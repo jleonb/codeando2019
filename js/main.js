@@ -1,7 +1,7 @@
 $(window).on('scroll', function(){
         var alturavideo = (document.getElementById('video').clientHeight)/2,
-        alturamision = (document.getElementById('mision').clientHeight + alturavideo*2),
-        alturacursos = document.getElementById('cursos').clientHeight + alturamision;
+        // alturamision = (document.getElementById('mision').clientHeight + alturavideo*2),
+        alturacursos = document.getElementById('cursos').clientHeight + document.getElementById('datos').clientHeight + document.getElementById('empresas-colegios').clientHeight*2;
         // flecha
         if($(window).scrollTop() < 100) {
             $('#flecha-arriba').css('opacity', '0');

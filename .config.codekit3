@@ -262,6 +262,28 @@
 		"oAP": "\/Icon\r",
 		"oF": 0
 		},
+	"\/img\/cerebro.png": {
+		"ft": 32768,
+		"iS": 246351,
+		"oA": 0,
+		"oAP": "\/img\/cerebro.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/compu-presencial.png": {
+		"ft": 32768,
+		"iS": 253585,
+		"oA": 0,
+		"oAP": "\/img\/compu-presencial.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/cruz.png": {
 		"ft": 32768,
 		"iS": 68329,
@@ -396,12 +418,12 @@
 		},
 	"\/img\/fondo-educacion-4.png": {
 		"ft": 32768,
-		"iS": 73728,
+		"iS": 32555,
 		"oA": 0,
 		"oAP": "\/img\/fondo-educacion-4.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -604,6 +626,39 @@
 		"iS": 1403670,
 		"oA": 0,
 		"oAP": "\/img\/mi-primera-pagina.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/slider-8-alumnos.png": {
+		"ft": 32768,
+		"iS": 64072,
+		"oA": 0,
+		"oAP": "\/img\/slider-8-alumnos.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/slider-aprendizaje-efectivo.png": {
+		"ft": 32768,
+		"iS": 61424,
+		"oA": 0,
+		"oAP": "\/img\/slider-aprendizaje-efectivo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/slider-cursos-presenciales.png": {
+		"ft": 32768,
+		"iS": 58384,
+		"oA": 0,
+		"oAP": "\/img\/slider-cursos-presenciales.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
